@@ -1,0 +1,14 @@
+version: "2"
+
+services:
+  node_express:
+    container_name: node-express
+    image: dmkcode/node-express
+    build: 
+      context: .
+    command: nodemon --debug=5858
+    volumes:
+      - .:/src
+    ports:
+      - "8000:3000"
+      - "5858:5858"
