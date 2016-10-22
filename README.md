@@ -1,6 +1,6 @@
 #Dockerizing My Dev Environment
 
-This is the code for the [Dockerizing My Dev Environment](https://dmkcode.com/2016/08/simple-timer-using-angular-2-and-rxjs/) blog post.
+This is the code for the [Dockerizing My Dev Environment](https://dmkcode.com/2016/10/dockerize-dev-environment/) blog post.
 
 ### Running the Application Locally
 
